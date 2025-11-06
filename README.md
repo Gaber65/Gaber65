@@ -1,5 +1,5 @@
 # Hi 👋, I'm Gaber Abdelrheem  
-### A passionate mobile developer and website developer from Egypt  
+### Experienced Flutter Mobile Developer and Angular Web Developer at Quad Insight for Cloud Software
 
 - 🔭 I’m currently working on **SQueaK**  
 - 🌱 I’m currently learning **.NET backend**  
