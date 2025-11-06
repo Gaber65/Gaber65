@@ -3,13 +3,17 @@
 
 - 🔭 I’m currently working on **SQueaK**  
 - 🌱 I’m currently learning **.NET backend**  
-- 📫 How to reach me: **[gaberfares512@gmail.com](mailto:gaberfares512@gmail.com)**  
+- 📫 How to reach me: **[gaberfares66@gmail.com](mailto:gaberfares66@gmail.com)**  
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Connect with 
+
+<p align="left">
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/gaber-abdelrheem)
 [![Facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg)](https://fb.com/ana.gaber.50)
+
+</p>
 
 ---
 
